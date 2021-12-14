@@ -1,3 +1,3 @@
 # minesweeper
 
-#Ohjelmoinnin alkeet -kurssille tehty miinaharavapeli
+Ohjelmoinnin alkeet -kurssille tehty miinaharavapeli
